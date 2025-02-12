@@ -7,6 +7,7 @@ class AlphabetSeries
 		{
 			System.out.println(ch);	
 			a++;
+			System.out.println("Hello");
 		}
 
 
